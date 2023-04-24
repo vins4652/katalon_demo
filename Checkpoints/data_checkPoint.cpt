@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>data_checkPoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/testData</source-url>
+   </source-info>
+   <taken-date>2023-04-24T19:20:07.567</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+      <column-name>type</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "hrhead@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "hrhead@123",
+      "checked": true
+    },
+    {
+      "value": "HR Head",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "hrassistant@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "hrassistant@123",
+      "checked": true
+    },
+    {
+      "value": "HR Assistant",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "hrofficer@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "hrofficer@123",
+      "checked": true
+    },
+    {
+      "value": "HR Officer",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

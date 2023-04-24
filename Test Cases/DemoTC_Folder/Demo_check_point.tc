@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>checking the data for the second time</description>
+   <name>Demo_check_point</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71f05b86-cc1c-47c2-b10e-af333c53cc4c</testCaseGuid>
+</TestCaseEntity>

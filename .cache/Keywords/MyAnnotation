@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "0C0298874C747D55864F32E16FEE5A95",
+  "keywordClasses": [
+    {
+      "name": "MyAnnotation",
+      "keywordMethods": [
+        {
+          "name": "name",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "nameUser",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

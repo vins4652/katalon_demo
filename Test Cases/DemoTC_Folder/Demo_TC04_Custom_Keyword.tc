@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo_TC04_Custom_Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4555bb05-bb3d-42d3-b7de-488ba0d29692</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>928a2eaa-49e4-48ff-8b83-8f041221e640</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cafb0d54-e4bf-4abf-93e3-42c525b94468</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>928a2eaa-49e4-48ff-8b83-8f041221e640</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>cafb0d54-e4bf-4abf-93e3-42c525b94468</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

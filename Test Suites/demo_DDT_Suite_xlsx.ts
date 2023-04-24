@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>demo_DDT_Suite_xlsx</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8af4f6de-ee04-424b-94ed-b97c537bf635</testSuiteGuid>
+   <testCaseLink>
+      <guid>fdb6c586-ec2c-46c9-be29-bf4656d1ff68</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DemoTC_Folder/HRM_demo_login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>63336b05-9cb7-43b7-8111-38abd906cb96</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/testData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>63336b05-9cb7-43b7-8111-38abd906cb96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>f39b0b2c-eeb9-43da-a431-1fcc582bbb77</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>63336b05-9cb7-43b7-8111-38abd906cb96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>981ba721-f890-46f4-a7dd-93c4641a5cff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>63336b05-9cb7-43b7-8111-38abd906cb96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>fab9304d-b990-48e8-9b09-ee6c2be308c8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
